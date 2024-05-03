@@ -1,6 +1,7 @@
-# React + Vite
+# Tugas Web Portofolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nama: Ghifar Rito Ikbar Firmansyah
+Session: Morning
 
 Currently, two official plugins are available:
 
